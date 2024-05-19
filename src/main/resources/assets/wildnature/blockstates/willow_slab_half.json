@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "half=bottom,variant=default": { "model": "wildnature:willow_slab_bottom" },
+        "half=top,variant=default": { "model": "wildnature:willow_slab_top" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "wildnature:cherry_slab_double" }
+    }
+}

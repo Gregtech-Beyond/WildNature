@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "wildnature:redwood_slab_double" }
+    }
+}

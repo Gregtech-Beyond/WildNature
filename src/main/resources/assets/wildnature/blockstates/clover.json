@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal":[
+            { "model": "wildnature:clover" },
+            { "model": "wildnature:clover", "y": 90 },
+            { "model": "wildnature:clover", "y": 180 },
+            { "model": "wildnature:clover", "y": 270 }
+            ]
+    }
+}

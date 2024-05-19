@@ -1,0 +1,1 @@
+{    "variants": {        "axis=y":  { "model": "wildnature:mahogany_log" },        "axis=z":   { "model": "wildnature:mahogany_log", "x": 90 },        "axis=x":   { "model": "wildnature:mahogany_log", "x": 90, "y": 90 },        "axis=none": { "model": "wildnature:mahogany_log_bark" }    }}

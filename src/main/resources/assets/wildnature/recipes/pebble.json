@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:pebble"
+    }
+  },
+    "result": {
+    "item": "minecraft:stone",
+    "data": 0
+  }
+}

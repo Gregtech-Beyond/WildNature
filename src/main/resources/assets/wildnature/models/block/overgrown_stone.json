@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "blocks/stone",
+        "bottom": "blocks/stone",
+        "top": "wildnature:blocks/gleba/overgrown_stone_top",
+        "side": "blocks/stone",
+        "overlay": "wildnature:blocks/gleba/overgrown_stone_side_overlay"
+    }
+}

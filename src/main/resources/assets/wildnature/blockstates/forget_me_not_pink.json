@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "flowering=false": [ { "model": "wildnature:forget_me_not_pink" },{ "model": "wildnature:forget_me_not_pink", "y":90},{ "model": "wildnature:forget_me_not_pink", "y":180},{ "model": "wildnature:forget_me_not_pink" ,"y":270}],
+        "flowering=true": [ { "model": "wildnature:forget_me_not_pink" },{ "model": "wildnature:forget_me_not_pink", "y":90},{ "model": "wildnature:forget_me_not_pink", "y":180},{ "model": "wildnature:forget_me_not_pink" ,"y":270}]
+    }
+}

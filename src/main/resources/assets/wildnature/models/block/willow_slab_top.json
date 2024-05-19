@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/willow/willow_planks",
+        "top": "wildnature:blocks/willow/willow_planks",
+        "side": "wildnature:blocks/willow/willow_planks"
+    }
+}

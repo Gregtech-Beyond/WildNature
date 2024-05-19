@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/apple/apple_planks",
+        "top": "wildnature:blocks/apple/apple_planks",
+        "side": "wildnature:blocks/apple/apple_planks"
+    }
+}

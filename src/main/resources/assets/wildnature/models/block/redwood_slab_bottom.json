@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/redwood/redwood_planks",
+        "top": "wildnature:blocks/redwood/redwood_planks",
+        "side": "wildnature:blocks/redwood/redwood_planks"
+    }
+}

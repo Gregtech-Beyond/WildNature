@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/beech/beech_planks",
+        "top": "wildnature:blocks/beech/beech_planks",
+        "side": "wildnature:blocks/beech/beech_planks"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "wildnature:beech_slab_double" }
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"wildnature:stairs_parquets",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:rowan_parquet"
+    }
+  },
+  "result": {
+    "item": "wildnature:rowan_stairs_parquet",
+    "count":8
+  }
+}

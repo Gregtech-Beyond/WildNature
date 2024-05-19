@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "flowering=false": [ { "model": "wildnature:tallgrass_flower" },{ "model": "wildnature:tallgrass_flower", "y":90},{ "model": "wildnature:tallgrass_flower", "y":180},{ "model": "wildnature:tallgrass_flower" ,"y":270}],
+        "flowering=true": [ { "model": "wildnature:tallgrass_flower_flowering" },{ "model": "wildnature:tallgrass_flower_flowering", "y":90},{ "model": "wildnature:tallgrass_flower_flowering", "y":180},{ "model": "wildnature:tallgrass_flower_flowering" ,"y":270}]
+    }
+}

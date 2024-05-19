@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"shovel",
+  "pattern": [
+    "#",
+    "!",
+    "!"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:amber"
+    },
+    "!": {
+      "item": "wildnature:silver_rod"
+    }
+  },
+  "result": {
+    "item": "wildnature:amber_shovel",
+    "count":1
+  }
+}

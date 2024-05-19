@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"pickaxe",
+  "pattern": [
+    "###",
+    " ! ",
+    " ! "
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:amethyst"
+    },
+    "!": {
+      "item": "wildnature:steel_rod"
+    }
+  },
+  "result": {
+    "item": "wildnature:amethyst_pickaxe",
+    "count":1
+  }
+}

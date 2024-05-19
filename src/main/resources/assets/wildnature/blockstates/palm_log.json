@@ -1,0 +1,1 @@
+{    "variants": {        "axis=y":  { "model": "wildnature:palm_log" },        "axis=z":   { "model": "wildnature:palm_log", "x": 90 },        "axis=x":   { "model": "wildnature:palm_log", "x": 90, "y": 90 },        "axis=none": { "model": "wildnature:palm_log_bark" }    }}

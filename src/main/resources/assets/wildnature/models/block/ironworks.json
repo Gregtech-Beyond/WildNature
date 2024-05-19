@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "wildnature:blocks/furnace/ironworks_top",
+        "front": "wildnature:blocks/furnace/ironworks_front",
+        "side": "wildnature:blocks/furnace/ironworks_side"
+    }
+}

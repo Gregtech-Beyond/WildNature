@@ -1,0 +1,6 @@
+{
+    "variants":
+    {
+        "variant=default": { "model": "wildnature:mahogany_slab_double" }
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"materialBlocks",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:amethyst"
+    }
+  },
+    "result": {
+    "item": "wildnature:amethyst_block",
+    "data": 0
+  }
+}

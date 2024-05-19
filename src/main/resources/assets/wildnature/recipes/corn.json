@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"corn",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:corn"
+    }
+  },
+  "result": {
+    "item": "wildnature:corn_bush",
+    "data":0,
+    "count":4
+  }
+}

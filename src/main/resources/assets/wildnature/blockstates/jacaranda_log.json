@@ -1,0 +1,1 @@
+{    "variants": {        "axis=y":  { "model": "wildnature:jacaranda_log" },        "axis=z":   { "model": "wildnature:jacaranda_log", "x": 90 },        "axis=x":   { "model": "wildnature:jacaranda_log", "x": 90, "y": 90 },        "axis=none": { "model": "wildnature:jacaranda_log_bark" }    }}

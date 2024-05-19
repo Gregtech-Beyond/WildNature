@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0": { "model": "wildnature:hornbeam_sapling" },
+        "stage=1": { "model": "wildnature:hornbeam_sapling" }
+    }
+}

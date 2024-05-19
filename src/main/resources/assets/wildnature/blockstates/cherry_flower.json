@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal":[
+            { "model": "wildnature:cherry_flower" },
+            { "model": "wildnature:cherry_flower", "y": 90 },
+            { "model": "wildnature:cherry_flower", "y": 180 },
+            { "model": "wildnature:cherry_flower", "y": 270 }
+            ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"furnace",
+  "pattern": [
+    "###",
+    "@$@",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "@": {
+      "item": "minecraft:coal",
+      "data": 0
+    },
+    "$": {
+      "item": "minecraft:lava_bucket",
+      "data": 0
+    }
+  },
+    "result": {
+    "item": "wildnature:ironworks",
+    "data": 0
+  }
+}

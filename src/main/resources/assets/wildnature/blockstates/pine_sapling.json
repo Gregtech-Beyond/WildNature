@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0": { "model": "wildnature:pine_sapling" },
+        "stage=1": { "model": "wildnature:pine_sapling" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "snowy=false": { "model": "wildnature:brown_mycelium" },
+        "snowy=true": { "model": "wildnature:brown_grass_block_snowed" }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "wildnature:mushroom_6" },
+        "stage=0": { "model": "wildnature:mushroom_6" },
+        "stage=1": { "model": "wildnature:mushroom_6" }
+    }
+}

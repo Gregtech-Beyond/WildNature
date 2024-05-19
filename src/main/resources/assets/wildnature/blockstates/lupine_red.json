@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "flowering=false": [ { "model": "wildnature:lupine_red" },{ "model": "wildnature:lupine_red", "y":90},{ "model": "wildnature:lupine_red", "y":180},{ "model": "wildnature:lupine_red" ,"y":270}],
+        "flowering=true": [ { "model": "wildnature:lupine_red" },{ "model": "wildnature:lupine_red", "y":90},{ "model": "wildnature:lupine_red", "y":180},{ "model": "wildnature:lupine_red" ,"y":270}]
+    }
+}

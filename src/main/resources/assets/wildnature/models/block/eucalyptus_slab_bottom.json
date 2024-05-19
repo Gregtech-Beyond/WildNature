@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/eucalyptus/eucalyptus_planks",
+        "top": "wildnature:blocks/eucalyptus/eucalyptus_planks",
+        "side": "wildnature:blocks/eucalyptus/eucalyptus_planks"
+    }
+}

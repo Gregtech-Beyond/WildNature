@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "flowering=false": [ { "model": "wildnature:tallgrass_wheat" },{ "model": "wildnature:tallgrass_wheat", "y":90},{ "model": "wildnature:tallgrass_wheat", "y":180},{ "model": "wildnature:tallgrass_wheat" ,"y":270}],
+        "flowering=true": [ { "model": "wildnature:tallgrass_wheat_flowering" },{ "model": "wildnature:tallgrass_wheat_flowering", "y":90},{ "model": "wildnature:tallgrass_wheat_flowering", "y":180},{ "model": "wildnature:tallgrass_wheat_flowering" ,"y":270}]
+    }
+}

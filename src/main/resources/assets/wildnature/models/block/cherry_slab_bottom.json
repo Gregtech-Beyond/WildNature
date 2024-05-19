@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/cherry/cherry_planks",
+        "top": "wildnature:blocks/cherry/cherry_planks",
+        "side": "wildnature:blocks/cherry/cherry_planks"
+    }
+}

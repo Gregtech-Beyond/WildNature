@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "normal": { "model": "wildnature:beech_leaves" },
+    "check_decay=false,decayable=false": { "model": "wildnature:beech_leaves" },
+    "check_decay=true,decayable=false": { "model": "wildnature:beech_leaves" },
+    "check_decay=true,decayable=true": { "model": "wildnature:beech_leaves" },
+    "check_decay=false,decayable=true": { "model": "wildnature:beech_leaves" }
+  }
+}

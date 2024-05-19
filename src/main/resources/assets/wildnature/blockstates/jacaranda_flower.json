@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal":[
+            { "model": "wildnature:jacaranda_flower" },
+            { "model": "wildnature:jacaranda_flower", "y": 90 },
+            { "model": "wildnature:jacaranda_flower", "y": 180 },
+            { "model": "wildnature:jacaranda_flower", "y": 270 }
+            ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "wildnature:brown_grass_block" },
+            { "model": "wildnature:brown_grass_block", "y": 90 },
+            { "model": "wildnature:brown_grass_block", "y": 180 },
+            { "model": "wildnature:brown_grass_block", "y": 270 }
+        ],
+        "snowy=true":  { "model": "wildnature:brown_grass_block_snowed" }
+    }
+}

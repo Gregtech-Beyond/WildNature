@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "normal": { "model": "wildnature:redwood_leaves" },
+    "check_decay=false,decayable=false": { "model": "wildnature:redwood_leaves" },
+    "check_decay=true,decayable=false": { "model": "wildnature:redwood_leaves" },
+    "check_decay=true,decayable=true": { "model": "wildnature:redwood_leaves" },
+    "check_decay=false,decayable=true": { "model": "wildnature:redwood_leaves" }
+  }
+}

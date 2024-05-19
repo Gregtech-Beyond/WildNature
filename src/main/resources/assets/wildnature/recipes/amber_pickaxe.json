@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"pickaxe",
+  "pattern": [
+    "###",
+    " ! ",
+    " ! "
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:amber"
+    },
+    "!": {
+      "item": "wildnature:silver_rod"
+    }
+  },
+  "result": {
+    "item": "wildnature:amber_pickaxe",
+    "count":1
+  }
+}

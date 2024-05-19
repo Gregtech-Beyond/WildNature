@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=y":  { "model": "wildnature:willow_log" },
+        "axis=z":   { "model": "wildnature:willow_log", "x": 90 },
+        "axis=x":   { "model": "wildnature:willow_log", "x": 90, "y": 90 },
+        "axis=none": { "model": "wildnature:willow_log_bark" }
+    }
+}

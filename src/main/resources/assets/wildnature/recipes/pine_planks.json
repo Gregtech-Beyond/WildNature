@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"planks",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:pine_log"
+    }
+  },
+  "result": {
+    "item": "wildnature:pine_planks",
+    "count":4
+  }
+}

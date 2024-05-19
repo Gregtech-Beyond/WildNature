@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "wildnature:blocks/eucalyptus/eucalyptus_sapling"
+    }
+}

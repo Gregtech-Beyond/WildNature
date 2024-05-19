@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/cedar/cedar_planks",
+        "top": "wildnature:blocks/cedar/cedar_planks",
+        "side": "wildnature:blocks/cedar/cedar_planks"
+    }
+}

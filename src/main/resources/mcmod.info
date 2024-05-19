@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wildnature",
+  "name": "WildNature mod",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["matez_"],
+  "credits": "Made in Poland",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

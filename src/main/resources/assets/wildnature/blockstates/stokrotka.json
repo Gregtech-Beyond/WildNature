@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal":[
+            { "model": "wildnature:stokrotka" },
+            { "model": "wildnature:stokrotka", "y": 90 },
+            { "model": "wildnature:stokrotka", "y": 180 },
+            { "model": "wildnature:stokrotka", "y": 270 }
+            ]
+    }
+}

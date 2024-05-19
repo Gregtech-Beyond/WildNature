@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "normal": { "model": "wildnature:wild_wheat" },
+        "flowering=false":[ { "model": "wildnature:wild_wheat" },{ "model": "wildnature:wild_wheat", "y":90},{ "model": "wildnature:wild_wheat", "y":180},{ "model": "wildnature:wild_wheat" ,"y":270}],
+        "flowering=true": [ { "model": "wildnature:wild_wheat_flowering" },{ "model": "wildnature:wild_wheat_flowering", "y":90},{ "model": "wildnature:wild_wheat_flowering", "y":180},{ "model": "wildnature:wild_wheat_flowering" ,"y":270}]}
+    }

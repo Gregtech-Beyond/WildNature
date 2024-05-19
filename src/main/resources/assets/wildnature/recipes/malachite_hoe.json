@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"hoe",
+  "pattern": [
+    "##",
+    " !",
+    " !"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:malachite"
+    },
+    "!": {
+      "item": "wildnature:steel_rod"
+    }
+  },
+  "result": {
+    "item": "wildnature:malachite_hoe",
+    "count":1
+  }
+}

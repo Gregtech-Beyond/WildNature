@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/hazel/hazel_planks",
+        "top": "wildnature:blocks/hazel/hazel_planks",
+        "side": "wildnature:blocks/hazel/hazel_planks"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "wildnature:block/cross_with_overlay",
+    "textures": {
+        "colored": "wildnature:blocks/kwiaty/iris_purple",
+        "greyscale": "wildnature:blocks/kwiaty/iris_stalk",
+        "particle": "wildnature:blocks/kwiaty/iris_stalk"
+    }
+}

@@ -1,0 +1,1 @@
+{    "parent": "block/cube_column",    "textures": {        "end": "wildnature:blocks/mahogany/mahogany_log_top",        "side": "wildnature:blocks/mahogany/mahogany_log"    }}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/ebony/ebony_planks",
+        "top": "wildnature:blocks/ebony/ebony_planks",
+        "side": "wildnature:blocks/ebony/ebony_planks"
+    }
+}

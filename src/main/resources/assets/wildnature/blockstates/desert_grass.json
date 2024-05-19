@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "wildnature:desert_grass" },
+        "stage=0": { "model": "wildnature:desert_grass" },
+        "stage=1": { "model": "wildnature:desert_grass" }
+    }
+}

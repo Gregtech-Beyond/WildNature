@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass",
+    "textures": {
+        "particle": "wildnature:blocks/gleba/molddirt",
+        "bottom": "wildnature:blocks/gleba/molddirt",
+        "top": "wildnature:blocks/gleba/mold_grass_block_top",
+        "side": "wildnature:blocks/gleba/mold_grass_block_side",
+        "overlay": "wildnature:blocks/gleba/mold_grass_block_side_overlay"
+    }
+}

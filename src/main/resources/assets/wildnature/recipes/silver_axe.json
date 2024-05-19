@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"axe",
+  "pattern": [
+    "##",
+    "#!",
+    " !"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:silver_ingot"
+    },
+    "!": {
+      "item": "wildnature:diamond_rod"
+    }
+  },
+  "result": {
+    "item": "wildnature:silver_axe",
+    "count":1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"hoe",
+  "pattern": [
+    "##",
+    " !",
+    " !"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:amber"
+    },
+    "!": {
+      "item": "wildnature:silver_rod"
+    }
+  },
+  "result": {
+    "item": "wildnature:amber_hoe",
+    "count":1
+  }
+}

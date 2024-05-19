@@ -1,0 +1,9 @@
+{
+    "parent": "block/half_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/mahogany/mahogany_planks",
+        "top": "wildnature:blocks/mahogany/mahogany_planks",
+        "side": "wildnature:blocks/mahogany/mahogany_planks"
+    }
+}

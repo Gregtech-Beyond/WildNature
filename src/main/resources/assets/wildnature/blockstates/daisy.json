@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "normal":[
+            { "model": "wildnature:daisy" },
+            { "model": "wildnature:daisy", "y": 90 },
+            { "model": "wildnature:daisy", "y": 180 },
+            { "model": "wildnature:daisy", "y": 270 },
+            { "model": "wildnature:daisy2" },
+            { "model": "wildnature:daisy2", "y": 90 },
+            { "model": "wildnature:daisy2", "y": 180 },
+            { "model": "wildnature:daisy2", "y": 270 }
+        ]
+    }
+}

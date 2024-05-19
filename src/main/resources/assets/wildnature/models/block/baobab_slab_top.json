@@ -1,0 +1,9 @@
+{
+    "parent": "block/upper_slab",
+    "textures":
+    {
+        "bottom": "wildnature:blocks/baobab/baobab_planks",
+        "top": "wildnature:blocks/baobab/baobab_planks",
+        "side": "wildnature:blocks/baobab/baobab_planks"
+    }
+}

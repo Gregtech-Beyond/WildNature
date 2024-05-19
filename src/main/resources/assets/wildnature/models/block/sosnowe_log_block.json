@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "wildnature:blocks/pine/sosnowe_log_block_top",
+        "side": "wildnature:blocks/pine/sosnowe_log_block"
+    }
+}

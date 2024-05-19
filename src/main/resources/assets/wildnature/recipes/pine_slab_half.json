@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:pine_planks"
+    }
+  },
+    "result": {
+    "item": "wildnature:pine_slab_half",
+    "count": 6,
+    "data": 0
+  }
+}

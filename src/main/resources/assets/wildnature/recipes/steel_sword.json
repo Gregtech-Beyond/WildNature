@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"sword",
+  "pattern": [
+    "#",
+    "#",
+    "!"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:steel_ingot"
+    },
+    "!": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "wildnature:steel_sword",
+    "count":1
+  }
+}

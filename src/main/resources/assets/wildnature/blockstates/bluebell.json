@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "wildnature:bluebell" },
+        "stage=0": { "model": "wildnature:bluebell" },
+        "stage=1": { "model": "wildnature:bluebell" }
+    }
+}

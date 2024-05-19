@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "#$#",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:steel_rod"
+    },
+    "$": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+    "result": {
+    "item": "wildnature:steel_ladder",
+    "count": 3,
+    "data": 0
+  }
+}

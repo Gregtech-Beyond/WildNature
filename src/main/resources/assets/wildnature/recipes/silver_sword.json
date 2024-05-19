@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group":"sword",
+  "pattern": [
+    "#",
+    "#",
+    "!"
+  ],
+  "key": {
+    "#": {
+      "item": "wildnature:silver_ingot"
+    },
+    "!": {
+      "item": "wildnature:diamond_rod"
+    }
+  },
+  "result": {
+    "item": "wildnature:silver_sword",
+    "count":1
+  }
+}

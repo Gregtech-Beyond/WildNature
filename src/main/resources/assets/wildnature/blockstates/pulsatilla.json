@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "wildnature:pulsatilla" },
+        "stage=0": { "model": "wildnature:pulsatilla" },
+        "stage=1": { "model": "wildnature:pulsatilla" }
+    }
+}

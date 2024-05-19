@@ -1,0 +1,1 @@
+{    "variants": {        "axis=y":  { "model": "wildnature:hornbeam_log" },        "axis=z":   { "model": "wildnature:hornbeam_log", "x": 90 },        "axis=x":   { "model": "wildnature:hornbeam_log", "x": 90, "y": 90 },        "axis=none": { "model": "wildnature:hornbeam_log_bark" }    }}

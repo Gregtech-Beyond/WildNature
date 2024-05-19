@@ -1,0 +1,7 @@
+{
+    "variants":
+    {
+        "half=bottom,variant=default": { "model": "wildnature:ebony_slab_bottom" },
+        "half=top,variant=default": { "model": "wildnature:ebony_slab_top" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "flowering=false": [ { "model": "wildnature:heather" },{ "model": "wildnature:heather", "y":90},{ "model": "wildnature:heather", "y":180},{ "model": "wildnature:heather" ,"y":270}],
+        "flowering=true": [ { "model": "wildnature:heather_purple" },{ "model": "wildnature:heather_purple", "y":90},{ "model": "wildnature:heather_purple", "y":180},{ "model": "wildnature:heather_purple" ,"y":270}]
+    }
+}

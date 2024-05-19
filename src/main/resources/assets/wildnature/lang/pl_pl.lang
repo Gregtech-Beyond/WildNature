@@ -1,0 +1,427 @@
+tile.beech_log.name=Drewno Buku
+tile.beech_planks.name=Bukowe deski
+tile.beech_stairs_planks.name=Schody z bukowych desek
+tile.beech_stairs_parquet.name=Schody z bukowego parkietu
+tile.beech_parquet.name=Bukowy parkiet
+tile.beech_leaves.name=Liście Buku
+tile.beech_sapling.name=Sadzonka Buku
+tile.beech_slab_half.name=Bukowa płyta
+
+tile.redwood_log.name=Drewno Sekwoi
+tile.redwood_planks.name=Deski z Sekwoi
+tile.redwood_stairs_planks.name=Schody z desek z Sekwoi
+tile.redwood_stairs_parquet.name=Schody z parkietu z Sekwoi
+tile.redwood_parquet.name=Parkiet z Sekwoi
+tile.redwood_leaves.name=Liście Sekwoi
+tile.redwood_sapling.name=Sadzonka Sekwoi
+tile.redwood_slab_half.name=Płyta z Sekwoi
+
+
+tile.eucalyptus_log.name=Drewno Eukaliptusu
+tile.eucalyptus_planks.name=Eukaliptusowe deski
+tile.eucalyptus_stairs_planks.name=Schody z eukaliptusowych desek
+tile.eucalyptus_stairs_parquet.name=Schody z eukaliptusowego parkietu
+tile.eucalyptus_parquet.name=Eukaliptusowy parkiet
+tile.eucalyptus_leaves.name=Liście Eukaliptusu
+tile.eucalyptus_sapling.name=Sadzonka Eukaliptusu
+tile.eucalyptus_slab_half.name=Eukaliptusowa płyta
+
+
+tile.hornbeam_log.name=Drewno Grabu
+tile.hornbeam_planks.name=Grabowe deski
+tile.hornbeam_stairs_planks.name=Schody z grabowych desek
+tile.hornbeam_stairs_parquet.name=Schody z grabowego parkietu
+tile.hornbeam_parquet.name=Grabowy parkiet
+tile.hornbeam_leaves.name=Liście Grabu
+tile.hornbeam_sapling.name=Sadzonka Grabu
+tile.hornbeam_slab_half.name=Grabowa płyta
+
+
+tile.pear_log.name=Drewno Gruszy
+tile.pear_planks.name=Gruszowe deski
+tile.pear_stairs_planks.name=Schody z gruszowych desek
+tile.pear_stairs_parquet.name=Schody z gruszowego parkietu
+tile.pear_parquet.name=Gruszowy parkiet
+tile.pear_leaves.name=Liście Gruszy
+tile.pear_sapling.name=Sadzonka Gruszy
+tile.pear_slab_half.name=Gruszowa płyta
+
+
+tile.apple_log.name=Drewno Jabłoni
+tile.apple_planks.name=Jabłoniowe deski
+tile.apple_stairs_planks.name=Schody z jabłoniowych desek
+tile.apple_stairs_parquet.name=Schody z jabłoniowego parkietu
+tile.apple_parquet.name=Jabłoniowy parkiet
+tile.apple_leaves.name=Liście Jabłoni
+tile.apple_sapling.name=Sadzonka Jabłoni
+tile.apple_slab_half.name=Jabłoniowa płyta
+
+
+tile.jacaranda_log.name=Drewno Jakarandy
+tile.jacaranda_planks.name=Jakarandowe deski
+tile.jacaranda_stairs_planks.name=Schody z jakarandowych desek
+tile.jacaranda_stairs_parquet.name=Schody z jakarandowego parkietu
+tile.jacaranda_parquet.name=Jakarandowy parkiet
+tile.jacaranda_leaves.name=Liście Jakarandy
+tile.jacaranda_sapling.name=Sadzonka Jakarandy
+tile.jacaranda_slab_half.name=Jakarandowa płyta
+
+
+tile.rowan_log.name=Drewno Jarzębiny
+tile.rowan_planks.name=Jarzębinowe deski
+tile.rowan_stairs_planks.name=Schody z jarzębinowych desek
+tile.rowan_stairs_parquet.name=Schody z jarzębinowego parkietu
+tile.rowan_parquet.name=Jarzębinowy parkiet
+tile.rowan_leaves.name=Liście Jarzębiny
+tile.rowan_sapling.name=Sadzonka Jarzębiny
+tile.rowan_slab_half.name=Jarzębinowa płyta
+
+
+tile.fir_log.name=Drewno Jodły
+tile.fir_planks.name=Jodłowe deski
+tile.fir_stairs_planks.name=Schody z jodłowych desek
+tile.fir_stairs_parquet.name=Schody z jodłowego parkietu
+tile.fir_parquet.name=Jodłowy parkiet
+tile.fir_leaves.name=Liście Jodły
+tile.fir_sapling.name=Sadzonka Jodły
+tile.fir_slab_half.name=Jodłowa płyta
+
+
+tile.hazel_log.name=Drewno Leszczyny
+tile.hazel_planks.name=Leszczynowe deski
+tile.hazel_stairs_planks.name=Schody z leszczynowych desek
+tile.hazel_stairs_parquet.name=Schody z leszczynowego parkietu
+tile.hazel_parquet.name=Leszczynowy parkiet
+tile.hazel_leaves.name=Liście Leszczyny
+tile.hazel_sapling.name=Sadzonka Leszczyny
+tile.hazel_slab_half.name=Leszczynowa płyta
+
+
+tile.cherry_log.name=Drewno Wiśni
+tile.cherry_planks.name=Wiśniowe deski
+tile.cherry_stairs_planks.name=Schody z wiśniowych desek
+tile.cherry_stairs_parquet.name=Schody z wiśniowego parkietu
+tile.cherry_parquet.name=Wiśniowy parkiet
+tile.cherry_pink_leaves.name=Liście Różowej Wiśni
+tile.cherry_white_leaves.name=Liście Białej Wiśni
+tile.cherry_pink_sapling.name=Sadzonka Różowej Wiśni
+tile.cherry_white_sapling.name=Sadzonka Białej Wiśni
+tile.cherry_slab_half.name=Wiśniowa płyta
+
+
+tile.baobab_log.name=Drewno Baobabu
+tile.baobab_planks.name=Baobabowe deski
+tile.baobab_stairs_planks.name=Schody z baobabowych desek
+tile.baobab_stairs_parquet.name=Schody z baobabowego parkietu
+tile.baobab_parquet.name=Baobabowy parkiet
+tile.baobab_leaves.name=Liście Baobabu
+tile.baobab_sapling.name=Sadzonka Baobabu
+tile.baobab_slab_half.name=Baobabowa płyta
+
+
+tile.ebony_log.name=Drewno Hebanu
+tile.ebony_planks.name=Hebanowe deski
+tile.ebony_stairs_planks.name=Schody z hebanowych desek
+tile.ebony_stairs_parquet.name=Schody z hebanowego parkietu
+tile.ebony_parquet.name=Hebanowy parkiet
+tile.ebony_leaves.name=Liście Hebanu
+tile.ebony_sapling.name=Sadzonka Hebanu
+tile.ebony_slab_half.name=Hebanowa płyta
+
+
+tile.pine_log.name=Drewno Sosny
+tile.pine_planks.name=Sosnowe deski
+tile.pine_stairs_planks.name=Schody z sosnowych desek
+tile.pine_stairs_parquet.name=Schody z sosnowego parkietu
+tile.pine_parquet.name=Sosnowy parkiet
+tile.pine_leaves.name=Liście Sosny
+tile.pine_sapling.name=Sadzonka Sosny
+tile.pine_slab_half.name=Sosnowa płyta
+
+
+tile.palm_log.name=Drewno Palmy
+tile.palm_planks.name=Palmowe deski
+tile.palm_stairs_planks.name=Schody z palmowych desek
+tile.palm_stairs_parquet.name=Schody z palmowego parkietu
+tile.palm_parquet.name=Palmowy parkiet
+tile.palm_leaves.name=Liście Palmy
+tile.palm_sapling.name=Sadzonka Palmy
+tile.palm_slab_half.name=Palmowa płyta
+
+
+tile.mahogany_log.name=Drewno Mahoniu
+tile.mahogany_planks.name=Mahoniowe deski
+tile.mahogany_stairs_planks.name=Schody z mahoniowych desek
+tile.mahogany_stairs_parquet.name=Schody z mahoniowego parkietu
+tile.mahogany_parquet.name=Mahoniowy parkiet
+tile.mahogany_leaves.name=Liście Mahoniu
+tile.mahogany_sapling.name=Sadzonka Mahoniu
+tile.mahogany_slab_half.name=Mahoniowa płyta
+
+
+tile.cedar_log.name=Drewno Cedru
+tile.cedar_planks.name=Cedrowe deski
+tile.cedar_stairs_planks.name=Schody z cedrowych desek
+tile.cedar_stairs_parquet.name=Schody z cedrowego parkietu
+tile.cedar_parquet.name=Cedrowy parkiet
+tile.cedar_leaves.name=Cedrowe liście
+tile.cedar_sapling.name=Sadzonka Cedru
+tile.cedar_slab_half.name=Cedrowa płyta
+
+
+tile.willow_log.name=Drewno Wierzby
+tile.willow_planks.name=Wierzbowe deski
+tile.willow_stairs_planks.name=Schody z wierzbowych desek
+tile.willow_stairs_parquet.name=Schody z wierzbowego parkietu
+tile.willow_parquet.name=Wierzbowy parkiet
+tile.willow_leaves.name=Wierzbowe liście
+tile.willow_sapling.name=Sadzonka Wierzby
+tile.willow_slab_half.name=Wierzbowa płyta
+
+
+tile.red_autumn_leaves.name=Czerwone Jesienne Liście
+tile.orange_autumn_leaves.name=Pomarańczowe Jesienne Liście
+tile.yellow_autumn_leaves.name=Żółte Jesienne Liście
+tile.rotten_leaves.name=Zgniłe Liście
+tile.rotten_log.name=Spróchniałe Drewno
+tile.dead_log.name=Zeschnięte Drewno
+
+
+tile.jacaranda_flower.name=Kwiat Jakarandy
+tile.cherry_flower.name=Kwiat Wiśni
+tile.clover.name=Koniczyna
+tile.small_grass.name=Krótka trawa
+tile.medium_grass.name=Średnia trawa
+tile.bluebell.name=Dzwoneczek
+tile.pulsatilla.name=Sasanka
+tile.heather_purple.name=Fioletowy wrzos
+tile.heather_pink.name=Różowy wrzos
+tile.heather_white.name=Biały wrzos
+tile.dead_short_grass.name=Krótka wyschnięta trawa
+tile.desert_grass.name=Pustynna trawa
+tile.tallgrass_wheat.name=Trawa z pszenicą
+tile.tallgrass_thistle.name=Oset
+tile.tallgrass_fernsprout.name=Paproć
+tile.tallgrass_flower.name=Kwiecista trawa
+tile.wild_wheat.name=Dzika pszenica
+tile.leaf_pile.name=Stos liści
+tile.dead_leaf_pile.name=Stos suchych liści
+tile.lupine_violet.name=Fioletowy łubin
+tile.lupine_blue.name=Niebieski łubin
+tile.lupine_pink.name=Różowy łubin
+tile.lupine_red.name=Czerwony łubin
+tile.lupine_yellow.name=Żółty łubin
+tile.iris_violet.name=Fioletowy irys
+tile.iris_purple.name=Purpurowy irys
+tile.forget_me_not_blue.name=Niebieska niezapominajka
+tile.forget_me_not_pink.name=Różowa niezapominajka
+item.duck_male_feather.name=Męskie pióro kaczki
+item.duck_female_feather.name=Damskie pióro kaczki
+item.duck_baby_feather.name=Dziecięce pióro kaczki
+
+
+
+
+
+
+tile.brown_grass_block.name=Blok brunatnej trawy
+tile.mold_grass_block.name=Blok czarnoziemnej trawy
+tile.desert_grass_block.name=Blok pustynnej trawy
+tile.dried_grass_block.name=Blok suchej trawy
+tile.overgrown_stone.name=Zarośnięty kamień
+tile.browndirt.name=Ziemia brunatna
+tile.molddirt.name=Czarnoziem
+tile.desertdirt.name=Ziemia pustynna
+tile.drieddirt.name=Sucha ziemia
+tile.brown_podzol.name=Brunatna bielica
+tile.mold_podzol.name=Czarnoziemna bielica
+tile.mold_mycelium.name=Czarnoziemna grzybnia
+tile.brown_mycelium.name=Brunatna grzybnia
+tile.frozen_dirt.name=Zamarznięta ziemia
+tile.frozen_grass_block.name=Blok zamarzniętej trawy
+
+
+
+
+tile.ash_block.name=Blok zbitego popiołu
+tile.white_sand.name=Biały piasek
+tile.ash.name=Popiół
+tile.darkstone.name=Ciemny kamień
+tile.dried_sand.name=Zaschnięty piasek
+
+tile.mushroom_1.name=Prawdziwek
+tile.mushroom_2.name=Maślak zwyczajny
+tile.mushroom_3.name=Pieczarka
+tile.mushroom_4.name=Muchomor sromotnikowy
+tile.mushroom_5.name=Muchomor jadowity
+tile.mushroom_6.name=Mleczaj rydz
+tile.mushroom_7.name=Koźlarz czerwony
+tile.mushroom_8.name=Borowik wysmukły
+tile.mushroom_9.name=Kurka
+tile.daisy.name=Stokrotka
+item.green_apple.name=Zielone jabłko
+item.pear.name=Gruszka
+item.rowanberry_red.name=Czerwona jarzębina
+item.rowanberry_orange.name=Pomarańczowa jarzębina
+item.cherry.name=Wiśnia
+item.corn.name=Kukurydza
+item.acorn.name=Żołądź
+item.raw_boar.name=Mięso dzika
+item.cooked_boar.name=Upieczone mięso dzika
+item.raw_goat.name=Mięso kozy
+item.cooked_goat.name=Upieczone mięso kozy
+item.raw_bison.name=Mięso bizona
+item.cooked_bison.name=Upieczone mięso bizona
+item.raw_camel.name=Mięso wielbłąda
+item.cooked_camel.name=Upieczone mięso wielbłąda
+
+
+item.pebble.name=Kamyk
+item.amethyst.name=Kryształ Ametystu
+item.amethyst_shard.name=Odłamek Ametystu
+item.sapphire.name=Kryształ Szafiru
+item.sapphire_shard.name=Odłamek Szafiru
+item.ruby.name=Kryształ Rubinu
+item.ruby_shard.name=Odłamek Rubinu
+item.malachite.name=Kryształ Malachitu
+item.malachite_shard.name=Odłamek Malachitu
+item.amber.name=Kryształ Bursztynu
+item.steel_ingot.name=Sztabka stali
+item.silver_ingot.name=Sztabka srebra
+item.steel_rod.name=Stalowy pręt
+item.silver_rod.name=Srebrny pręt
+item.diamond_rod.name=Diamentowy pręt
+
+
+
+tile.hardened_sandstone.name=Stwardniały Piaskowiec
+tile.red_hardened_sandstone.name=Czerwony Stwardniały Piaskowiec
+tile.frozen_stone.name=Zamarznięty kamień
+tile.frozen_cobblestone.name=Zamarznięty bruk
+tile.basalt.name=Bazalt
+tile.carbonatite.name=Karbonatyt
+tile.chalk.name=Kreda
+tile.conglomerate.name=Konglomerat
+tile.dolomite.name=Dolomit
+tile.epidosite.name=Epidozyt
+tile.gabbro.name=Gabbro
+tile.gneiss.name=Gneis
+tile.gypsum.name=Gips
+tile.limestone.name=Wapień
+tile.marble.name=Marmur
+tile.monzonite.name=Monzonit
+tile.pegmatite.name=Pegmatyt
+tile.phyllite.name=Fylit
+tile.pumice.name=Pumeks
+tile.pyroxenite.name=Pyroksenit
+tile.rhyolite.name=Ryolit
+tile.slate.name=Łupek
+tile.syenite.name=Sjenit
+tile.umber.name=Umber
+
+
+
+tile.amethyst_block.name=Blok Ametystu
+tile.sapphire_block.name=Blok Szafiru
+tile.malachite_block.name=Blok Malachitu
+tile.ruby_block.name=Blok Rubinu
+tile.amber_block.name=Blok Bursztynu
+tile.steel_block.name=Blok Stali
+tile.silver_block.name=Blok Srebra
+tile.amethyst_ore.name=Ruda Ametystu
+tile.sapphire_ore.name=Ruda Szafiru
+tile.malachite_ore.name=Ruda Malachitu
+tile.amber_ore.name=Ruda Bursztynu
+tile.ruby_ore.name=Ruda Rubinu
+tile.silver_ore.name=Ruda Srebra
+
+
+tile.ironworks.name=Huta
+container.ironworks=Huta
+
+
+item.amethyst_sword.name=Ametystowy miecz
+item.amethyst_pickaxe.name=Ametystowy kilof
+item.amethyst_axe.name=Ametysowa siekiera
+item.amethyst_shovel.name=Ametysowa łopata
+item.amethyst_hoe.name=Ametystowa motyka
+item.sapphire_sword.name=Szafirowy miecz
+item.sapphire_pickaxe.name=Szafirowy kilof
+item.sapphire_axe.name=Szafirowa siekiera
+item.sapphire_shovel.name=Szafirowa łopata
+item.sapphire_hoe.name=Szafirowa motyka
+item.malachite_sword.name=Malachitowy miecz
+item.malachite_pickaxe.name=Malachitowy kilof
+item.malachite_axe.name=Malachitowa siekiera
+item.malachite_shovel.name=Malachitowa łopata
+item.malachite_hoe.name=Malachitowa motyka
+item.amber_sword.name=Bursztynowy miecz
+item.amber_pickaxe.name=Bursztynowy kilof
+item.amber_axe.name=Bursztynowa siekiera
+item.amber_shovel.name=Bursztynowa łopata
+item.amber_hoe.name=Bursztynowa motyka
+item.ruby_sword.name=Rubinowy miecz
+item.ruby_pickaxe.name=Rubinowy kilof
+item.ruby_axe.name=Rubinowa siekiera
+item.ruby_shovel.name=Rubinowa łopata
+item.ruby_hoe.name=Rubinowa motyka
+item.steel_sword.name=Stalowy miecz
+item.steel_pickaxe.name=Stalowy kilof
+item.steel_axe.name=Stalowa siekiera
+item.steel_shovel.name=Stalowa łopata
+item.steel_hoe.name=Stalowa motyka
+item.silver_sword.name=Srebrny miecz
+item.silver_pickaxe.name=Srebrny kilof
+item.silver_axe.name=Srebrna siekiera
+item.silver_shovel.name=Srebrna łopata
+item.silver_hoe.name=Srebrna motyka
+
+
+
+
+
+itemGroup.wildnature=WildNature
+itemGroup.wildnature_underground=WildNature Podziemia
+
+generator.WildNature=WildNature
+generator.WildNatureEX=WN Experimental
+
+entity.boar.name=Dzik
+entity.duck_male.name=Kaczor
+entity.duck_female.name=Kaczka
+entity.duck_baby.name=Kaczątko
+
+entity.goat_male.name=Kozior
+entity.goat_female.name=Kozica
+entity.goat_baby.name=Koziątko
+
+entity.goat_saanen_male.name=Kozior saaneński
+entity.goat_saanen_female.name=Kozica saaneńska
+entity.goat_saanen_baby.name=Koziątko saaneńskie
+
+entity.camel_male.name=Wielbłąd
+entity.camel_female.name=Wielbłądzica
+entity.camel_baby.name=Wielbłądek
+
+entity.bison_male.name=Bizon
+entity.bison_female.name=Bizonica
+entity.bison_baby.name=Bizątko
+
+entity.wisent_male.name=Żubr
+entity.wisent_female.name=Żubrzyca
+entity.wisent_baby.name=Żubrzątko
+
+entity.cow_male.name=Byk
+entity.cow_female.name=Krowa
+entity.cow_baby.name=Cielak
+
+entity.forester.name=Leśniczy
+
+lore.rock.metamorphic=Skały metamorficzne
+lore.rock.sedimentary=Skały osadowe
+lore.rock.igneous=Skały magmowe
+
+tile.steel_ladder.name=Stalowa drabina
+messages.foresterWarn1=Nie niszcz tego lasu! Jest on chroniony.
+messages.foresterWarn2=Odłóż siekierę! Ten las jest chroniony.
+messages.foresterWarn3=Ten las jest chroniony! Jeśli nie przestaniesz go niszczyć, zginiesz marnie!

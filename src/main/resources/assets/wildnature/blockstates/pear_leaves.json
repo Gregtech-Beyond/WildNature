@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "check_decay=false,decayable=false,variant=0": { "model": "wildnature:pear_leaves" },
+    "check_decay=true,decayable=false,variant=0": { "model": "wildnature:pear_leaves" },
+    "check_decay=true,decayable=true,variant=0": { "model": "wildnature:pear_leaves" },
+    "check_decay=false,decayable=true,variant=0": { "model": "wildnature:pear_leaves" },
+    "check_decay=false,decayable=false,variant=1": { "model": "wildnature:pear_leaves2" },
+    "check_decay=true,decayable=false,variant=1": { "model": "wildnature:pear_leaves2" },
+    "check_decay=true,decayable=true,variant=1": { "model": "wildnature:pear_leaves2" },
+    "check_decay=false,decayable=true,variant=1": { "model": "wildnature:pear_leaves2" },
+    "check_decay=false,decayable=false,variant=2": { "model": "wildnature:pear_leaves3" },
+    "check_decay=true,decayable=false,variant=2": { "model": "wildnature:pear_leaves3" },
+    "check_decay=true,decayable=true,variant=2": { "model": "wildnature:pear_leaves3" },
+    "check_decay=false,decayable=true,variant=2": { "model": "wildnature:pear_leaves3" },
+    "check_decay=false,decayable=false,variant=3": { "model": "wildnature:pear_leaves4" },
+    "check_decay=true,decayable=false,variant=3": { "model": "wildnature:pear_leaves4" },
+    "check_decay=true,decayable=true,variant=3": { "model": "wildnature:pear_leaves4" },
+    "check_decay=false,decayable=true,variant=3": { "model": "wildnature:pear_leaves4" }
+  }
+}

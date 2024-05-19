@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=y":  { "model": "wildnature:sosnowe_log_block" },
+    "axis=z":   { "model": "wildnature:sosnowe_log_block", "x": 90 },
+    "axis=x":   { "model": "wildnature:sosnowe_log_block", "x": 90, "y": 90 },
+    "axis=none": { "model": "acacia_bark" }
+
+  }
+
+}
